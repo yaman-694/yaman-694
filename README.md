@@ -1,10 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Yaman Jain</h1>
-<h3 align="center">A Backend Developer and coder from INDIA</h3>
+<h3 align="center">A Fullstack Developer and coder from INDIA</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f7/c8/6e/f7c86e14ddab0b4117994bd5f5385a98.gif">
-- 🔭 I worked on **Stugather (Backend)** 
 
-- 💬 Ask me about **Backend and system design**
+- 💬 Discuss about **Frontend and Backend in NodeJs**
 
 - 📫 How to reach me **yamandevain@gmail.com**
 
