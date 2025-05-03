@@ -3,7 +3,7 @@
 <h3 align="center">A Fullstack Developer and coder from INDIA</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f7/c8/6e/f7c86e14ddab0b4117994bd5f5385a98.gif">
 
-- 💬 Discuss about **Frontend and Backend in NodeJs**
+- 💬 Connect me to talk on real engineering
 
 - 📫 How to reach me **yamandevain@gmail.com**
 
