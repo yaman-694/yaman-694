@@ -6,6 +6,7 @@
 - 💬 Connect me to talk on real engineering
 
 - 📫 How to reach me **yamandevain@gmail.com**
+- Read about my work [Blog site](https://myblog-ten-gilt.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
